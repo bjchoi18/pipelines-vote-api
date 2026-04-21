@@ -1,1 +1,1 @@
-# pipelines-vote-api
+# tekton-pipelines-demo
